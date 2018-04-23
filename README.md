@@ -1,3 +1,17 @@
+some users on unbutu 16 or lowre may need to run may need to run 
+
+cd flapx
+cd src/leveldb
+ make clean
+cd ..
+find . -type f -exec sed -i 's/unique_ptr/auto_ptr/g' {} +
+cd ..
+qmake 
+make
+
+
+
+
 FLAPXZERO DAY
 ========
 
