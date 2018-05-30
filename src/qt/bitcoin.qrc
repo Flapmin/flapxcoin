@@ -99,8 +99,7 @@
         <file>res/images/FlapXcoin/Social/Discord2.png</file>
         <file>res/images/FlapXcoin/Social/btct2.png</file>
         <file>res/images/FlapXcoin/Community/Maza.png</file>
-        <file>res/images/FlapXcoin/Social/cc.png</file>
-        <file>res/images/FlapXcoin/FlapXFM/FLAPXM.png</file>
+        <file>res/images/FlapXcoin/Social/Ccity.png</file>
         <file>res/images/FlapXcoin/Social/play.png</file>
         <file>res/images/FlapXcoin/FlapXFM/FlapCT.png</file>
         <file>res/images/FlapXcoin/FlapXFM/FlapxFTH.png</file>
@@ -126,9 +125,15 @@
         <file>res/images/FlapXcoin/Crypto Links/Topia.png</file>
         <file>res/images/FlapXcoin/Crypto Links/Fiatleak.png</file>
         <file>res/images/FlapXcoin/FlapX Art/FBR.png</file>
+        <file>res/images/FlapXcoin/FlapX Art/FBS.png</file>
+        <file>res/images/FlapXcoin/Development/SAT34.png</file>
+        <file>res/images/FlapXcoin/Development/SAT33.png</file>
+        <file>res/images/FlapXcoin/Development/SAT32.png</file>
     </qresource>
     <qresource prefix="/movies">
         <file alias="update_spinner">res/movies/update_spinner.mng</file>
+        <file>res/movies/staking.mng</file>
+        <file>res/movies/update_spinner2.mng</file>
     </qresource>
     <qresource prefix="/translations">
         <file alias="en">locale/bitcoin_en.qm</file>
